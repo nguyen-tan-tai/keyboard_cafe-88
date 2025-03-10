@@ -1,0 +1,6 @@
+hardware/kicad/keyboard-backups/
+*.log
+*.lck
+hardware/kicad/#auto_saved_files#
+hardware/kicad/_autosave-keyboard.kicad_sch
+hardware/kicad/fp-info-cache
